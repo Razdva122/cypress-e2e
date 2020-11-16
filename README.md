@@ -6,6 +6,8 @@ E2E/Regression/Screenshot testing на JavaScript/TypeScript
 
 Cypress - все в одном framework для тестирования, с моками и стабами, без использования Selenium.
 
+Cypress определяет установленные на устройстве браузеры и поднимает инстанс дефолтного или переданного через настройки браузера. [Документация](https://docs.cypress.io/guides/guides/launching-browsers.html#Browsers)
+
 Cypress состоит из полностью бесплатного, [локально установленного](https://docs.cypress.io/guides/getting-started/installing-cypress.html) Test Runner с [открытым исходным кодом](https://github.com/cypress-io/cypress) и службы панели инструментов для [записи ваших тестов](https://docs.cypress.io/guides/dashboard/introduction.html).
 
 ### Test Runner - UI для работы с тестами
